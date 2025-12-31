@@ -1,0 +1,8 @@
+{
+  "name": "Luz aos Pequeninos",
+  "description": "Plataforma de sensibilização e educação para a proteção de crianças e adolescentes contra o abuso e exploração sexual.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
